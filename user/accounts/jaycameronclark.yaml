@@ -1,0 +1,11 @@
+email: jaycameronclark@gmail.com
+fullname: Jay
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$/2BRCIF7oQE.b1qaSuuNqOHSVQI0F/d3vxZLrofESWtcbDqGyJ3v2
