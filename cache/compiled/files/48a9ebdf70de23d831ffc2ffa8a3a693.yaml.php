@@ -2,19 +2,19 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/cw.dev/system/config/site.yaml',
-    'modified' => 1482760352,
+    'modified' => 1482859688,
     'data' => [
-        'title' => 'Grav',
+        'title' => 'Code Wilderness',
         'author' => [
-            'name' => 'John Appleseed',
-            'email' => 'john@email.com'
+            'name' => 'Jay Clark',
+            'email' => 'jaycameronclark@gmail.com'
         ],
         'taxonomies' => [
             0 => 'category',
             1 => 'tag'
         ],
         'metadata' => [
-            'description' => 'My Grav Site'
+            'description' => 'CodeWilderness'
         ],
         'summary' => [
             'enabled' => true,
