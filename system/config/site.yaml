@@ -1,13 +1,13 @@
-title: Grav                                 # Name of the site
+title: Code Wilderness                      # Name of the site
 
 author:
-  name: John Appleseed                      # Default author name
-  email: 'john@email.com'                   # Default author email
+  name: Jay Clark                           # Default author name
+  email: 'jaycameronclark@gmail.com'        # Default author email
 
 taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 
 metadata:
-  description: 'My Grav Site'               # Site description
+  description: 'CodeWilderness'             # Site description
 
 summary:
   enabled: true                             # enable or disable summary of page
