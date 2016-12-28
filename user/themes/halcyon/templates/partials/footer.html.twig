@@ -1,0 +1,18 @@
+<footer>
+  <div class="container">
+    <div class="row">
+    {% if site.footer.links %}
+    <div class="col-md-6">
+      <ul class="legals">
+        {% for item in site.footer.links %}
+        <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    <div class="col-md-6 credit">
+      <p>Powered by <a href="https://getgrav.org/">Grav</a> &amp; <a href="https://www.digitalocean.com/">DigitalOcean</a></p>
+    </div>
+  </div>
+</div>
+</footer>
